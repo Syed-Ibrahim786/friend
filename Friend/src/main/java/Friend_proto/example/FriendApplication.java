@@ -1,4 +1,4 @@
-package Friend_proto.example.Friend;
+package Friend_proto.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
